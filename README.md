@@ -1,4 +1,3 @@
-My Portfolio Website
 Welcome to my personal portfolio website! This project showcases my skills and contact information. It is built with HTML and basic CSS, designed to be clean, simple, and responsive.
 
 Features
