@@ -10,7 +10,7 @@ CSS
 
 Getting Started
 Clone this repository:
-git clone https://github.com/your-Parthiban1613/portfolio-website.git
+git clone https://parthiban1613.github.io/Portfolio-simple-website/
 Open the index.html file in your browser to view the home page.
 
 Thank you for visiting my portfolio!
